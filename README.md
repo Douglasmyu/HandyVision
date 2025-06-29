@@ -1,5 +1,5 @@
 # 🖐️ HandyVision
-*** HandyVision *** is a real time web app that can detect and 
+HandyVision  is a real time web app that can detect and 
 read hand gestures built with Python, OpenCV, Flask, and 
 MediaPipe.  It detects common hand gestures like thumbs up, 
 thumbs down, okay, and much more using computer vision 
@@ -15,7 +15,7 @@ a chatbox-like activity log.
 
 ## ▶️ Demo
 
-![Demo Screenshot](demo.png)
+![Demo Screenshot](Demo.png)
 
 ## 🚀 Getting Started  
     clone the repo
