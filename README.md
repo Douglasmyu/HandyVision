@@ -13,6 +13,10 @@ a chatbox-like activity log.
     - 💬 Chatbox UI displaying gesture history with timestamps
     - 🖥️ Built with Flask, OpenCV, and JavaScript for full-stack integration
 
+## ▶️ Demo
+
+![Demo Screenshot](demo.png)
+
 ## 🚀 Getting Started  
     clone the repo
 
